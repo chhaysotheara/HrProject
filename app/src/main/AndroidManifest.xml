@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".thy"></activity>
+        <activity android:name=".thy" />
+        <activity android:name=".did_you_see_me_question_mark"></activity>
     </application>
 
 </manifest>
