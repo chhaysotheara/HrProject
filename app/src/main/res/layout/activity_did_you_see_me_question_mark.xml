@@ -8,6 +8,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="theara.com.testgit.did_you_see_me_question_mark">
+    tools:context="theara.com.testgit.Vuthy.did_you_see_me_question_mark">
 
 </RelativeLayout>

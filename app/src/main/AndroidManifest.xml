@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".thy" />
-        <activity android:name=".did_you_see_me_question_mark"></activity>
+        <activity android:name=".Vuthy.did_you_see_me_question_mark"></activity>
     </application>
 
 </manifest>
